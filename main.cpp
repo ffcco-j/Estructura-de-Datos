@@ -3,7 +3,6 @@
 //Profesor: Diego Hernandez García.
 //Fecha inicio: 15/05/2022.
 //Fecha término: 27/05/2022.
-//Link video explicación: https://youtu.be/ko161BchaL0
 
 #include <iostream>
 #include <string>
